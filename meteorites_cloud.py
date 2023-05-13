@@ -1,6 +1,3 @@
-!pip install -U pandas-profiling
-
-"""### Import libraries"""
 
 import numpy as np
 import pandas as pd
